@@ -1,5 +1,5 @@
 module.exports = {
-  extends: '@c8/eslint-config',
+  extends: '@xxsnakerxx/eslint-config',
 
   env: {
     browser: false,

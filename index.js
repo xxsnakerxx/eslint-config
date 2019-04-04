@@ -33,6 +33,7 @@ module.exports = {
     'no-underscore-dangle': 0,
     'prefer-promise-reject-errors': 0,
     'object-curly-newline': [2, { consistent: true }],
+    'function-paren-newline': 0,
 
     'react/jsx-filename-extension': [2, { extensions: ['.js', '.jsx'] }],
     'react/forbid-prop-types': 0,
