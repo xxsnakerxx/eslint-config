@@ -36,6 +36,7 @@ module.exports = {
     'function-paren-newline': 0,
 
     'react/jsx-filename-extension': [2, { extensions: ['.js', '.jsx'] }],
+    'react/static-property-placement': ['error', 'static public field'],
     'react/forbid-prop-types': 0,
     'react/sort-comp': [2, {
       order: [
